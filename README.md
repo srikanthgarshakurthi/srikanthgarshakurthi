@@ -2,7 +2,7 @@
 
 ## 🚀 Frontend Developer | React JS Developer | AWS & DevOps Enthusiast
 
-Frontend Developer with 3 years of experience in building responsive and scalable web applications using React JS, JavaScript, HTML, CSS, Bootstrap, Node.js, and REST APIs. Currently upskilling in AWS Cloud and DevOps technologies including Docker, Kubernetes, Jenkins, Terraform, and Linux.
+Frontend Developer with 3 years of experience in building responsive and scalable web applications using React JS, JavaScript, HTML, CSS, Bootstrap, Node.js, and REST APIs. Currently upskilling in AWS Cloud and DevOps technologies including Docker, Kubernetes, Jenkins, Ansible, Terraform, and Linux.
 
 ## 💻 Languages and Tools:
 
